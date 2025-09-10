@@ -4,7 +4,7 @@ A beautiful animated carousel card component for React Native with smooth 3D ani
 
 ## 📱 Demo
 
-![Carousel Card Demo](./carousel-card.gif)
+![Carousel Card Demo](./carousel-card-demo.gif)
 
 
 ## 🚀 Installation
